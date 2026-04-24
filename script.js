@@ -1195,7 +1195,7 @@ function createApkBox() {
 
       <div class="right-panel">
         <a href="https://storetn.in/GACORMANIA/gacormania.apk" target="_blank">
-          <img src="#" alt="Download APK GACORMANIA">
+          <img src="https://www.imgstorage.site/view/plotwis/download-apk.png" alt="Download APK GACORMANIA">
         </a>
       </div>
     </div>
