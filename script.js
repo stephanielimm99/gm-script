@@ -1174,9 +1174,9 @@ function createApkBox() {
         <div class="label">Pilih Link Alternatif:</div>
 
         <select id="altLink">
-          <option value="#">#</option>
-          <option value="#">#</option>
-          <option value="#">#</option>
+          <option value="https://gm.akses-gampang.com">gm.akses-gampang.com</option>
+          <option value="https://gm1.akses-gampang.com">gm1.akses-gampang.com</option>
+          <option value="https://gm2.akses-gampang.com">gm2.akses-gampang.com</option>
         </select>
 
         <button class="copy-btn" type="button" id="copyAltLinkBtn">Salin Link</button>
